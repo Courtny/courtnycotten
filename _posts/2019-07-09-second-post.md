@@ -1,6 +1,6 @@
 ---
 ID: 118
-post_title: Second Post!
+post_title: Second Post! (rename)
 author: Courtny
 post_excerpt: ""
 layout: post
