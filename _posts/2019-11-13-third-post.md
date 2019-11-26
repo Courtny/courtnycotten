@@ -48,6 +48,6 @@ post_date: 2019-11-13 04:33:52
 <p>Ac placerat vestibulum lectus mauris ultrices eros in cursus turpis. Aliquam nulla facilisi cras fermentum odio. Suspendisse ultrices gravida dictum fusce ut. Eget velit aliquet sagittis id consectetur purus. Purus in massa tempor nec feugiat nisl pretium fusce id. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Platea dictumst quisque sagittis purus sit amet volutpat. A diam maecenas sed enim. Urna neque viverra justo nec ultrices dui. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Elementum pulvinar etiam non quam lacus suspendisse. Elementum facilisis leo vel fringilla est ullamcorper.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":162,"width":606,"height":606,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large is-resized"><img src="http://www.courtnycotten.com/wp-content/uploads/2019/11/71223199_693605311050147_7103827200074445624_n-1024x1024.jpg" alt="A Jeep Gladiator parked on a road surrounded by yellow forestry." class="wp-image-162" width="606" height="606"/><figcaption>2020 Gladiator JT</figcaption></figure>
+<!-- wp:image {"align":"left","id":162,"width":1024,"height":1024,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="http://www.courtnycotten.com/wp-content/uploads/2019/11/71223199_693605311050147_7103827200074445624_n-1024x1024.jpg" alt="A Jeep Gladiator parked on a road surrounded by yellow forestry." class="wp-image-162" width="1024" height="1024"/><figcaption>2020 Gladiator JT</figcaption></figure></div>
 <!-- /wp:image -->
